@@ -5,7 +5,7 @@ Starter .NET (C#) solution, containing a single project with an HTTP triggered A
 # Requirements
 
 - [Azure Functions core tools](https://github.com/Azure/azure-functions-core-tools#installing-the-cli)
-- [.NET10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
+- [.NET10 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 # Setup
